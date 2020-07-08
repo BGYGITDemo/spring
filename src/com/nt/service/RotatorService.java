@@ -8,7 +8,7 @@ public class RotatorService {
     		                                                       "https://www.siyaram.com/",
     		                                                       "https://www.arvind.com/",
     		                                                       "https://onlyvimal.co.in/",
-    		                                                       "https://blackberrys.com/",
+    		      //done                                                 "https://blackberrys.com/",
     		                                                       "https://www.oxemberg.com/"};
      private  int counter=0;
      public void nextAdvertisement() {
