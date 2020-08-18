@@ -18,5 +18,6 @@
     </a>
     </div>
     <br><br>
+      <h1 style="text-align:center;color:pink"> Welcome to Rotator Page  </h1><br><br><br><br><br>
       <p style="text-align:center"> this is rest page having  main content of web page  </p>
     
